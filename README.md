@@ -1,0 +1,2 @@
+# scala-simple-codes
+scala
